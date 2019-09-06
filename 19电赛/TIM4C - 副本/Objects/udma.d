@@ -1,0 +1,9 @@
+.\objects\udma.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib\udma.c
+.\objects\udma.o: G:\keil5\ARM\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\udma.o: G:\keil5\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\udma.o: G:\keil5\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+.\objects\udma.o: G:\keil5\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+.\objects\udma.o: G:\keil5\TivaWare_C_Series-2.1.4.178\inc/hw_udma.h
+.\objects\udma.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+.\objects\udma.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+.\objects\udma.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib/udma.h

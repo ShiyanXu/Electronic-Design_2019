@@ -1,0 +1,12 @@
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib\hibernate.c
+.\objects\hibernate.o: G:\keil5\ARM\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\hibernate.o: G:\keil5\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hibernate.o: G:\keil5\ARM\ARM\ARMCC\Bin\..\include\time.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\inc/hw_hibernate.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib/hibernate.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+.\objects\hibernate.o: G:\keil5\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
